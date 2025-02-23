@@ -105,13 +105,6 @@ A global tech company integrated AI-driven body language detection into its inte
 
 An AI-based student engagement tracking system was deployed in virtual classrooms. It monitored student attention and participation levels, allowing educators to adjust teaching strategies in real time.
 
-## Team Members
-
-- **Kenzy Essam** - AI Development & Data Processing
-- **Abdelrahman Tamer** - Machine Learning Engineer
-- **Omar Nasser** - Video Processing & AI Integration
-- **Nouran Ahmed** - System Design & User Interface
-- **Mohammed Minyar** - Research & AI Model Training
 
 ## Conclusion
 
